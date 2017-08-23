@@ -1,0 +1,22 @@
+{
+  "name": "functional-programming-for-pure-joy",
+  "version": "1.0.0",
+  "description": "This is the companion repo for my talk *Functional Programming For Pure Joy*.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mStegall/functional-programming-for-pure-joy.git"
+  },
+  "author": "Matthew Stegall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mStegall/functional-programming-for-pure-joy/issues"
+  },
+  "homepage": "https://github.com/mStegall/functional-programming-for-pure-joy#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
